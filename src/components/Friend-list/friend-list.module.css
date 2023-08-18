@@ -9,7 +9,7 @@
   padding-left: 0;
   margin-bottom: 50px;
   padding: 25px;
-  background-color: grey;
+  background-color: rgb(207, 197, 197);
 }
 
 .itemFriends {
@@ -17,11 +17,10 @@
   display: flex;
   margin-bottom: 25px;
   align-items: center;
-
-  background-color: rgb(219, 209, 209);
+  background-color: rgb(235, 231, 231);
   padding: 10px 10px;
   border-radius: 5px;
-  box-shadow: grey;
+  box-shadow: rgb(138, 134, 134);
   padding: 0 20px;
 }
 
